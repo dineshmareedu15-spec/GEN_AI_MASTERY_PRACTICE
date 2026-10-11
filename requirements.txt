@@ -1,0 +1,10 @@
+python-dotenv
+sentence-transformers
+chromadb
+langchain-text-splitters
+rank-bm25
+gensim
+scikit-learn
+matplotlib
+groq
+google-genai
